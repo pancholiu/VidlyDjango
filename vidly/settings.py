@@ -25,7 +25,7 @@ SECRET_KEY = '=#z*i4=)lx$m3g6axe+-ys)(29c15s)4ibem60&m+o41ho6&gy'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['cryptic-gorge-04807-372a4e5456e0.herokuapp.com']
+ALLOWED_HOSTS = ['vidlydjango.onrender.com']
 
 
 # Application definition
